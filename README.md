@@ -1,4 +1,4 @@
-### [Deployed Link](https://mayu-makeyouup.netlify.app/)
+### [Deployed Link](https://beamish-empanada-ffa9bc.netlify.app/)
 
 # Getting Started with Create React App
 
